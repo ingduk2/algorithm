@@ -1,2 +1,2 @@
-# algorithm
-algorithm 정리
+# ps-python
+python Problem Solving
