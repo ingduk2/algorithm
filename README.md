@@ -1,9 +1,9 @@
 # ps-python
 python Problem Solving
 
-#[baekjoon]
-
-####[graph]
+---
+### baekjoon
+#### graph
 >* 2606
 >   >dfs나 bfs, 단방향일시 끊어졌을때 조회가 다 안됨, 양방향 필요
     
